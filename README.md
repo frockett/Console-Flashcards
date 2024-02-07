@@ -1,6 +1,6 @@
 # Console FlashCards
 
-A console application that allows the user to study flashcards. Developed using C#/.NET and MSSQL.
+A console application that allows the user to study flashcards. Developed using C#/.NET and MSSQL. 
 
 ## Features
 
@@ -17,4 +17,6 @@ A console application that allows the user to study flashcards. Developed using 
 
 ## Resources/Credits
 - The [C#Academy Flashcard's project](https://www.thecsharpacademy.com/project/14) was the project guide.
+- Initially forked from [TheCSharpAcademy](https://github.com/TheCSharpAcademy/CodeReviews.Console.Flashcards).
+- Commit history can be viewed [here](https://github.com/TheCSharpAcademy/CodeReviews.Console.Flashcards/commits/main/Flashcards.frockett). Uploaded to clean repo for readability, since the original repo contained source for all other user's projects.
 - Seed data was taken from [forser's implementation of this project](https://github.com/TheCSharpAcademy/CodeReviews.Console.Flashcards/tree/main/FlashCards.Forser).
