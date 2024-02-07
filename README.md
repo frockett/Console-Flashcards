@@ -1,6 +1,6 @@
 # Console FlashCards
 
-A console application that allows the user to study flashcards. Developed using C#/.NET and MSSQL.
+A console application that allows the user to study flashcards. Developed using C#/.NET and MSSQL. Initially forked from [TheCSharpAcademy's code repo](https://github.com/TheCSharpAcademy/CodeReviews.Console.Flashcards).
 
 ## Features
 
